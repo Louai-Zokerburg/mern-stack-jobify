@@ -1,6 +1,6 @@
 # Jobify - MERN Stack Job Board
 
-![https://github.com/Louai-Zokerburg/mern-stack-jobify/blob/main/cover.png?raw=true](https://github.com/Louai-Zokerburg/mern-stack-jobify/blob/main/cover.png?raw=true)
+![https://github.com/Louai-Zokerburg/mern-stack-jobify/blob/main/cover.png?raw=true](https://github.com/Louai-Zokerburg/mern-stack-jobify/blob/main/project-cover.png?raw=true)
 
 ## **Live Demo**
 
